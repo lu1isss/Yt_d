@@ -10,8 +10,3 @@ payload:
 - DOMAIN-SUFFIX,gstatic.com
 - DOMAIN-SUFFIX,l.google.com
 - DOMAIN-SUFFIX,yt3.ggpht.com
-- DOMAIN-SUFFIX,gvt2.com
-- DOMAIN-SUFFIX,dl.google.com
-- DOMAIN-SUFFIX,dl-ssl.google.com
-- DOMAIN-SUFFIX,dl-ssl.google.com
-- DOMAIN-SUFFIX,android.clients.google.com
