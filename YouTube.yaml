@@ -1,12 +1,12 @@
 payload:
-- DOMAIN-SUFFIX,googlevideo.com
-- DOMAIN-SUFFIX,ggpht.com
-- DOMAIN-SUFFIX,ytimg.com
-- DOMAIN-SUFFIX,youtube.com
-- DOMAIN-SUFFIX,play.google.com
-- DOMAIN-SUFFIX,youtu.be
-- DOMAIN-SUFFIX,googleapis.com
-- DOMAIN-SUFFIX,googleusercontent.com
-- DOMAIN-SUFFIX,gstatic.com
-- DOMAIN-SUFFIX,l.google.com
-- DOMAIN-SUFFIX,yt3.ggpht.com
+- DOMAIN,googlevideo.com
+- DOMAIN,ggpht.com
+- DOMAIN,ytimg.com
+- DOMAIN,youtube.com
+- DOMAIN,play.google.com
+- DOMAIN,youtu.be
+- DOMAIN,googleapis.com
+- DOMAIN,googleusercontent.com
+- DOMAIN,gstatic.com
+- DOMAIN,l.google.com
+- DOMAIN,yt3.ggpht.com
